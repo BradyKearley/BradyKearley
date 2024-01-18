@@ -1,6 +1,6 @@
 ### Hi there 👋, Brady Kearley
 #### Student
-![Carleton University](https://carleton.ca/)
+Carleton University
 
 I am a Carleton University student that has been working on games in my free time. As of more recently, I have just completed CS50 and am working towardes building some projects to display my skills.
 
