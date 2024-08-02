@@ -4,9 +4,9 @@ Carleton University
 
 I am a Carleton University student that has been working on games in my free time. As of more recently, I have just completed CS50 and am working towardes building some projects to display my skills.
 
-Skills: Python / C / Godot / Unity / Java
+Skills: Python  / Flutter / Firebase /Godot  / Java 
 
-- 🔭 I’m currently working on random projects 
+- 🔭 I’m currently working on building a app using flutter
 - 🌱 I’m currently learning git 
 - 👯 I’m looking to collaborate on projects
 
